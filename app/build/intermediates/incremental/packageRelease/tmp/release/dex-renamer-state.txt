@@ -1,0 +1,4 @@
+#Thu Oct 27 13:57:50 BST 2022
+base.0=C\:\\Users\\Owen Steele\\Desktop\\QuickQuotes\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
